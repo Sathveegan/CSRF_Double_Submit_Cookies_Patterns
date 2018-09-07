@@ -8,6 +8,9 @@ This is a simple application for Double Submit Cookies Patterns in CSRF Protecti
 
 > Then access via http://localhost/CSRF_Double_Submit_Cookies_Patterns/
 
+> Username: sath  
+> Password: 12345678
+
 
 ## Just click to access the application without clone or download in
 > ### https://csrf-token-double-submit-cookies.herokuapp.com/
