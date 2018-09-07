@@ -13,4 +13,4 @@ This is a simple application for Double Submit Cookies Patterns in CSRF Protecti
 
 
 ## Just click to access the application without clone or download in
-> ### https://csrf-token-double-submit-cookies.herokuapp.com/
+> ### https://csrf-token-double-submit.herokuapp.com/
